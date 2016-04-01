@@ -5,12 +5,12 @@
 #### http://bootstrapthemes.co/item/veggi-one-page-restaurant-template/
 
 
-Veggi � is clean, flat , and modern one page site template for Food / Restaurant Template. It is unique, & flexible. 
+Veggi - is clean, flat , and modern one page site template for Food / Restaurant Template. It is unique, & flexible. 
 It is a creative responsive HTML5 template.
 The template is ideal for bakeries, ice cream, restaurants, and any site related to food industry.
 
 
-![Veggi One Page Free Restaurant Template](https://raw.githubusercontent.com/bootstrapthemesco/veggi-one-page-restorent-template/master/beggi.jpg)
+![Veggi One Page Free Restaurant Template](https://raw.githubusercontent.com/bootstrapthemesco/Veggi-one-page-restaurant-template/master/beggi.jpg)
 
 
 
